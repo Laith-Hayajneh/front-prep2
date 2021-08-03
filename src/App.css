@@ -36,3 +36,42 @@
     transform: rotate(360deg);
   }
 }
+/* .asd{
+  display: inline-block;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  padding: 15px;
+  font-family: fantasy;
+} */
+/* .card {
+  display:inline-block;
+border: solid red;} */
+
+.movieCard {
+  display: inline-block;
+  color: rgb(0, 0, 0);
+  cursor: pointer;
+  padding: 15px;
+  font-family: fantasy;
+}
+.navLinks {
+  text-decoration: none;
+  color: white;
+}
+.me-auto :hover {
+  color: rgb(230, 230, 150);
+}
+
+.navLinks :hover {
+  background-color: red;
+}
+#title {
+  color: white;
+  font-size: 35px;
+  letter-spacing: 1px;
+}
+
+a {
+  text-decoration: none;
+  margin: 15px;
+}
